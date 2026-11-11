@@ -1,6 +1,6 @@
 # minitalk: client-server messaging with UNIX signals
 
-A small data-exchange program written in C: the **client** sends a string to the **server** using
+A project from **1337** (42 network): a small data-exchange program written in C: the **client** sends a string to the **server** using
 only two UNIX signals, `SIGUSR1` and `SIGUSR2`.
 
 ## How it works
